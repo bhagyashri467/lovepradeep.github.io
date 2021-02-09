@@ -1,0 +1,36 @@
+.container
+{
+	border: 5px solid green;
+}
+.row
+{
+	border: 5px solid blue;
+}
+.content
+{
+	border: 2px solid red;
+	background: yellow;
+}
+#footer
+{
+	border: 2px solid red;
+	background: lightblue;
+}
+#menu1 ul
+{
+	list-style: none;
+	margin: 0;
+}
+#menu1 ul li
+{
+	display: inline-block;
+     	background: lightblue;
+}
+#menu ul li
+{
+	border: 1px solid pink;
+}
+#menu
+{
+	background: lightblue;
+}
